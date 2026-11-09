@@ -2,7 +2,7 @@
 1. Nguyên nhân AI Hallucination khi hỏi ngắn:
 - Thiếu dữ liệu thực tế.
 - AI tự dự đoán chung chung như (Khuyên tháo vỏ trạm sạc).
-2. Prompt cho:
+2. Prompt :
 - "trụ sạc nhanh số 04 đột ngột dừng cung cấp điện cho một chiếc xe taxi điện TERMINAL ERROR LOG - VOLTCHARGE CHARGER giải thích lỗi bằng tiếng việt và đưa ra 3 bước khắc phục.
 # PHẦN 2: GIẢI MÃ LỖI & KỊCH BẢN KHẮC PHỤC
 3. Bản dịch và giải thích nguyên nhân lỗi:
